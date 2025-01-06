@@ -1,1 +1,1 @@
-Sitemap: https://sakaizarajery.github.io/sakaiza-website/sitemap.xml
+Sitemap: http://sakaizarajery.com/sitemap.xml
