@@ -3,7 +3,7 @@
 
 # SakaizaRajery's Website
 
-An engaging 1-3 sentence description of your lab.
+A Human Genetics student with a keen interest in the application of statistical and computational methods on mutli-omics data.
 
 {% include section.html %}
 
