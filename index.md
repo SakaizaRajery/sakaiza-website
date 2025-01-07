@@ -1,7 +1,7 @@
 ---
 ---
 
-# SakaizaRajery's Website
+# Sakaiza's Website
 
 A Human Genetics student with a keen interest in the application of statistical and computational methods on mutli-omics data.
 
