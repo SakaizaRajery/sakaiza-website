@@ -1,5 +1,175 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.11.01.621627
+  title: Network-based representation learning reveals the impact of age and diet
+    on the gut microbial and metabolomic environment of U.S. infants in a randomized
+    controlled feeding trial
+  authors:
+  - Adelle Price
+  - Sakaiza Rasolofomanana-Rajery
+  - Keenan Manpearl
+  - Charles E. Robertson
+  - Nancy F. Krebs
+  - Daniel N. Frank
+  - Arjun Krishnan
+  - Audrey E. Hendricks
+  - Minghua Tang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-11-02'
+  link: https://doi.org/g86tjv
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13063-024-07939-8
+  title: 'mini-MED: study protocol for a randomized, multi-intervention, semi-controlled
+    feeding trial of a Mediterranean-amplified vs. habitual Western dietary pattern
+    for the evaluation of food-specific compounds and cardiometabolic health'
+  authors:
+  - Emily B. Hill
+  - Minghua Tang
+  - Julie M. Long
+  - Jennifer F. Kemp
+  - Jamie L. Westcott
+  - Audrey E. Hendricks
+  - Nichole A. Reisdorph
+  - Wayne W. Campbell
+  - Nancy F. Krebs
+  - Claudia Schaefer
+  - Gabrielle Glime
+  - Katrina A. Doenges
+  - Richard M. Reisdorph
+  - Sakaiza Rasolofomanana Rajery
+  - Kathryn Garvey
+  - Robin Shandas
+  - Sarah J. Borengasser
+  - Daniel N. Frank
+  publisher: Trials
+  date: '2024-02-02'
+  link: https://doi.org/g86tjw
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tjnut.2023.10.024
+  title: Salmon Food-Specific Compounds and Their Metabolites Increase in Human Plasma
+    and Are Associated with Cardiometabolic Health Indicators Following a Mediterranean-Style
+    Diet Intervention
+  authors:
+  - Emily B. Hill
+  - Richard M. Reisdorph
+  - Sakaiza Rasolofomanana-Rajery
+  - Cole Michel
+  - Mobin Khajeh-Sharafabadi
+  - Katrina A. Doenges
+  - Nicholas Weaver
+  - Kevin Quinn
+  - Aimee K. Sutliff
+  - Minghua Tang
+  - Sarah J. Borengasser
+  - Daniel N. Frank
+  - "Lauren E. O\u2019Connor"
+  - Wayne W. Campbell
+  - Nancy F. Krebs
+  - Audrey E. Hendricks
+  - Nichole A. Reisdorph
+  publisher: The Journal of Nutrition
+  date: '2024-01-01'
+  link: https://doi.org/g5v5mk
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cdnut.2023.100509
+  title: OR15-04-23 Food-specific Compounds Act as Putative Biomarkers for Exposure
+    to and Effect of Plant Foods Consumed within a Mediterranean Diet Intervention
+  authors:
+  - Emily Hill
+  - Sakaiza Rasolofomanana-Rajery
+  - Mobin Khajeh-Sharafabadi
+  - Nicholas Weaver
+  - Richard Reisdorph
+  - Kevin Quinn
+  - Cole Michel
+  - Katrina Doenges
+  - Aimee Sutliff
+  - Sarah Borengasser
+  - Minghua Tang
+  - Lauren O'Connor
+  - Jamie Westcott
+  - Audrey Hendricks
+  - Wayne Campbell
+  - Nichole Reisdorph
+  - Nancy Krebs
+  publisher: Current Developments in Nutrition
+  date: '2023-07-01'
+  link: https://doi.org/g86tjx
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cdnut.2023.100511
+  title: OR15-06-23 Untargeted Metabolomics of Human Plasma and Foods Enable Identification
+    of Putative Health-Driven Biomarkers
+  authors:
+  - Audrey Hendricks
+  - Sakaiza Rasolofomanana-Rajery
+  - Emily Hill
+  - Mobin Khajeh-Sharafabadi
+  - Nicholas Weaver
+  - Richard Reisdorph
+  - Kevin Quinn
+  - Katrina Doenges
+  - Aimee Sutliff
+  - Jamie Westcott
+  - Sarah Borengasser
+  - Minghua Tang
+  - Lauren O'Connor
+  - Nichole Reisdorph
+  - Nancy Krebs
+  - Wayne Campbell
+  publisher: Current Developments in Nutrition
+  date: '2023-07-01'
+  link: https://doi.org/g86tjz
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cdnut.2023.101551
+  title: P20-047-23 Fecal Metabolites Potentially Mediate Diet-Induced Growth Patterns
+    in Formula-Fed Infants Consuming a Meat- vs. Dairy-Based Complementary Diet
+  authors:
+  - Minghua Tang
+  - Sakaiza Rasolofomanana-Rajery
+  - Audrey Hendricks
+  - Daniel Frank
+  - Nancy Krebs
+  publisher: Current Developments in Nutrition
+  date: '2023-07-01'
+  link: https://doi.org/g86tj2
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cdn/nzac053.027
+  title: Unique-to-Salmon Compounds Increase in Plasma and Are Associated With Cardiovascular
+    Health Following a Mediterranean Diet Intervention
+  authors:
+  - Emily Hill
+  - Mobin Khajeh-Sharafabadi
+  - Sakaiza Rasolofomanana-Rajery
+  - Nicholas Weaver
+  - Richard Reisdorph
+  - Kevin Quinn
+  - Katrina Doenges
+  - Aimee Sutliff
+  - Sarah Borengasser
+  - Minghua Tang
+  - "Lauren O\u2019Connor"
+  - Audrey Hendricks
+  - Nichole Reisdorph
+  - Nancy Krebs
+  - Wayne Campbell
+  publisher: Current Developments in Nutrition
+  date: '2022-06-01'
+  link: https://doi.org/g86tj3
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
