@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Work Cited
-
 {% include section.html %}
 
 ## All
